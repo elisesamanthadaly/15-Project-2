@@ -1,4 +1,4 @@
-# Tabletop_Auction_House 
+# Tabletop_Auction_House
 
 ![GitHub](https://img.shields.io/github/license/lordgeer/Tabletop_Auction_House)
 
